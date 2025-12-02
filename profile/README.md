@@ -1,4 +1,4 @@
-# 🚀 **Faturizze --- Simplifying the Future of Finance**
+# **Faturizze**
 
 Welcome to **Faturizze**, where we believe financial management should
 be **simple, intelligent, and completely stress‑free**.\

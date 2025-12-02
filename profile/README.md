@@ -55,19 +55,6 @@ Faturizze is not just a system --- it's your **financial co‑pilot**.
 -   **Scales with you** --- from 1 shop to 5 shops and 5 phones\
 -   **Futuristic design** --- finances can look good too
 
-------------------------------------------------------------------------
-
-## 🧩 **Our Ecosystem**
-
-Includes (or soon will): - Dashboard\
-- Smart notifications\
-- Automatic transaction sorting\
-- Digital wallet integrations\
-- Developer‑friendly API\
-- Multi‑user support\
-- Support for national and international operations
-
-------------------------------------------------------------------------
 
 ## 🤝 **How to Contribute**
 
@@ -89,22 +76,9 @@ We believe in building something **bigger than ourselves**.
 
 ------------------------------------------------------------------------
 
-## 🌌 **The Road Ahead**
-
-This is just the beginning.\
-Our roadmap is ambitious, user‑focused and full of innovation.\
-We aim to build the simplest, smartest and fastest financial platform in
-the Lusophone world.
-
-Whether you run a small store or five shops with multiple devices ---\
-**Faturizze follows you, grows with you, and organizes everything others
-don't want to deal with.**
-
-------------------------------------------------------------------------
 
 ## 🌟 **Thank You for Being Here**
 
 Explore, contribute, leave a star ⭐\
 Every small action helps us grow.
 
-**Faturizze --- organizing the present, simplifying the future.**
